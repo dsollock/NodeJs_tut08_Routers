@@ -1,0 +1,9 @@
+04/17/2024	 10:01:25	95195244-8876-43a3-bc0e-e43bd2d303d8	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:02:18	0ec4caa0-c469-45ba-9ff8-f909ccb8d154	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:03:40	5351799d-4ecf-4c08-a863-cd7bb585b77b	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:04:19	e3321114-d10e-49ab-932d-ec1eb305020d	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:04:37	3836153c-8b41-4b37-a13a-c281cbea8513	ReferenceError: req is not defined
+04/17/2024	 10:09:59	beb8eaf9-f499-4831-96c4-582b5bd57de6	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:10:35	ab5387a3-d1d1-4e23-aef9-ca57ffc10ab0	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/17/2024	 10:14:41	fe10d3dd-52d0-43c1-9a4c-0e48e83ad99a	TypeError: Cannot read properties of undefined (reading 'lastname')
+04/18/2024	 10:40:34	2f4f38a7-01ac-4ba7-89d3-bcc3484b2665	TypeError: Cannot read properties of undefined (reading 'lastname')
